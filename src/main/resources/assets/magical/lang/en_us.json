@@ -1,0 +1,28 @@
+{
+  "creativetab.magical.tab": "Magical",
+
+  "item.magical.sicle_oil": "Sicle Oil",
+  "item.magical.rose_quartz": "Rose Quartz",
+  "item.magical.rose_dust": "Rose Dust",
+  "item.magical.bulb_berries": "Bulb Berries",
+  "item.magical.horse_radish": "Horseradish",
+  "item.magical.radish": "Radish",
+  "item.magical.corn_cob": "Corn Cob",
+  "item.magical.cut_corn": "Cut Corn",
+  "item.magical.cooked_corn": "Cooked Corn",
+  "item.magical.mini_lemon_tart": "Mini Lemon Tart",
+  "item.magical.staff_rod": "Staff Rod",
+  "item.magical.fish_sticks": "Fish Sticks",
+  "item.magical.net": "Net",
+  "item.magical.sicle_seed": "Sicle Seed",
+  "item.magical.sling_shot": "Slingshot",
+  "item.magical.copper_ring": "Copper Ring",
+  "item.magical.spell_paper": "Spell Paper",
+
+  "block.magical.bulb_vine_plant": "Bulb Vine Plant",
+  "block.magical.bulb_vine": "Bulb Vine",
+  "block.magical.sicle": "Sicle",
+  "block.magical.potted_sicle": "Potted Sicle",
+
+  "tooltip.magical.staff_type_basic.tooltip": "Basic Staff"
+}
